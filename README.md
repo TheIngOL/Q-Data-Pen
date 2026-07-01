@@ -1,4 +1,4 @@
-Q-Data-Pen
+# <img width="40" height="40" alt="icon" src="https://github.com/user-attachments/assets/efb6acb1-47df-4273-a09e-60246f63dfcb" /> Q-Data-Pen
 Quick and easy edit polygon attributes with a single mouse click.| Schnelles Bearbeiten von Polygon-Attributen per Mausklick.
 Q-Data-Pen is a lightweight and intuitive tool designed to speed up your digitizing and editing workflow. Instead of navigating through the standard attribute table or bulky forms, simply activate the tool, click on a polygon, and instantly update its attribute values in a compact, user-friendly popup dialog.
  Developed with AI assistance (Google Gemini) for code optimization and logic structure.
