@@ -1,26 +1,7 @@
-[general]
-name=Q-Data-Pen
-description=Quick and easy edit polygon attributes with a single mouse click.| Schnelles Bearbeiten von Polygon-Attributen per Mausklick.
-about=Q-Data-Pen is a lightweight and intuitive tool designed to speed up your digitizing and editing workflow. Instead of navigating through the standard attribute table or bulky forms, simply activate the tool, click on a polygon, and instantly update its attribute values in a compact, user-friendly popup dialog.
+Q-Data-Pen
+Quick and easy edit polygon attributes with a single mouse click.| Schnelles Bearbeiten von Polygon-Attributen per Mausklick.
+Q-Data-Pen is a lightweight and intuitive tool designed to speed up your digitizing and editing workflow. Instead of navigating through the standard attribute table or bulky forms, simply activate the tool, click on a polygon, and instantly update its attribute values in a compact, user-friendly popup dialog.
  Developed with AI assistance (Google Gemini) for code optimization and logic structure.
  ---
  Q-Data-Pen ist ein einfaches und intuitives Werkzeug, das Ihren Digitalisierungs- und Bearbeitungsablauf beschleunigt. Anstatt sich durch die Standard-Attributtabelle oder umfangreiche Formulare zu navigieren, aktivieren Sie einfach das Werkzeug, klicken auf ein Polygon und aktualisieren dessen Attributwerte sofort in einem kompakten, benutzerfreundlichen Popup-Dialog.
  Erstellt mit Unterstützung von KI (Google Gemini) zur Code-Optimierung und Logik-Strukturierung.
-tags=polygon, edit, attribute, quick, table, pen
-icon=icon.png
-version=2.0
-homepage=https://github.com/TheIngOL/Q-Data-Pen
-tracker=https://github.com/TheIngOL/Q-Data-Pen/issues
-repository=https://github.com/TheIngOL/Q-Data-Pen
-qgisMinimumVersion=3.00
-qgisMaximumVersion=4.99
-author=Tobias Herden
-email=tobias.herden@ing-oldenburg.de
-category=Vector
-experimental=False
-deprecated=False
-server=False
-hasProcessingProvider=no
-changelog=2.0... made the plugin QT 6 compatible
-	1.2... changed cursor
-	1.1... selected attribute values are shown now
