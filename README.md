@@ -1,4 +1,4 @@
-# <img width="40" height="40" alt="icon" src="(https://github.com/TheIngOL/Q-Data-Pen/blob/main/icon.png)" /> Q-Data-Pen
+# <img width="40" height="40" alt="icon" src="https://github.com/TheIngOL/Q-Data-Pen/blob/main/icon.png" /> Q-Data-Pen
 Quick and easy edit polygon attributes with a single mouse click.| Schnelles Bearbeiten von Polygon-Attributen per Mausklick.
 
 Qt Version: Dual-Compatible (Qt5 & Qt6)
